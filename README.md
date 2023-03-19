@@ -12,17 +12,17 @@ Product details Component Nav Component
 
 - Whenever Application Starts, It Should Show the Login Component as Following
 
-![](Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.001.png)
+![](https://ik.imagekit.io/njzqmguob/Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.001.png?updatedAt=1679243493277)
 
 - After entering the Credentials and on clicking login button, If Credentials are Valid then User should Navigate to the the Home Page or else show alert msg to user to enter Proper Credentials
 - Home Component (page) Should look like the below UI.
 
-![](Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.002.jpeg)
+![](https://ik.imagekit.io/njzqmguob/Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.002.jpeg?updatedAt=1679243493367)
 
 - If User click on Products in Navbar,Then User Should Navigate to the Products Component
 - UI Should look in the Following way
 
-![](Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.003.jpeg)
+![](https://ik.imagekit.io/njzqmguob/Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.003.jpeg?updatedAt=1679243493534)
 
 - Here the Links on Left Panel should come from the Following URL
 
@@ -47,22 +47,22 @@ API: <https://fakestoreapi.com/products/categories>
 - Details of Specific Product in the Product Details Component Should Come From the Redux Store.
 - If User Click on the User Link in the Navbar, then It should look like Following UI
 
-![](Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.005.png)
+![](https://ik.imagekit.io/njzqmguob/Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.004.png?updatedAt=1679243493461)
 
-![](Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.006.png)
+![](https://ik.imagekit.io/njzqmguob/Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.005.png?updatedAt=1679243493296)
 
 - Here in the Users Component, Fetch the Details of User from the following API **API** :[ https://randomuser.me/api/?results=20](https://randomuser.me/api/?results=5000)![](Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.007.png)
 - Show the Users Details in the Table Format and the User should be able to filter the data Based on the Gender. .
 - If User click on Male Radio Button then it Should show only Male Users as Following
 
-![](Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.008.png)
+![](https://ik.imagekit.io/njzqmguob/Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.008.png?updatedAt=1679243493306)
 
 - And If Users Click on female radio buttons show only females.
 - If User clicks on the All radio button then shows all the details.
 - Implement Filtering Feature using Redux Concept.
 - If User Click on contact page then Show the Following UI
 
-![](Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.009.png)
+![](https://ik.imagekit.io/njzqmguob/Aspose.Words.b3d69670-1798-4ac2-be13-6129f0cd38d6.009.png?updatedAt=1679243493378)
 
 - Add Logout button in the Navbar after the Contact Link
 - If User clicks on the Logout Button and then he Should Navigate to the Login Screen.
